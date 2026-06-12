@@ -428,8 +428,3 @@ Independent freelance practice delivering professional video production services
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=FBBF24,10B981,18181B&height=180&section=footer&text=%22The%20best%20engineers%20are%20the%20ones%20who%20care%20about%20the%20craft%22&fontSize=20&fontColor=FFFFFF&desc=%E2%80%94%20both%20in%20the%20code%20they%20write%20and%20the%20systems%20they%20design.&descSize=14&descAlignY=65&animation=twinkling" width="100%" />
-
-</div>
