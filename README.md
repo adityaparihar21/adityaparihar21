@@ -31,17 +31,63 @@
 <h2>◈ &nbsp; ABOUT ME &nbsp; ◈</h2>
 </div>
 
-```typescript
-const adityaParihar: Engineer = {
-  role        : "Creative Engineer — AI/ML + Computer Vision + Video Production",
-  university  : "UPES Dehradun — BTech CSE (AIML), 2024–2028",
-  focus       : ["Real-Time AI Systems", "Computer Vision", "Full Stack Engineering"],
-  currentWork : "Lead Video Editor & Content Creator @ UPES (@lifeatupes)",
-  building    : "AI-powered productivity tools and gesture-based interaction systems",
-  superpower  : "Bridging deep technical engineering with high-end creative production",
-  openTo      : ["Research Collaborations", "Open Source", "Internships", "Hackathons"],
-};
-```
+<div align="center">
+
+<table width="100%" cellspacing="0" cellpadding="8">
+  <tr>
+    <td width="14%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/ROLE-064E3B?style=for-the-badge" />
+      <br/><br/>
+      <b>Creative Engineer</b>
+      <hr color="#064E3B" size="1" />
+      <sub>AI/ML • CV • Video Production</sub>
+    </td>
+    <td width="14%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/UNI-059669?style=for-the-badge" />
+      <br/><br/>
+      <b>UPES Dehradun</b>
+      <hr color="#059669" size="1" />
+      <sub>BTech CSE (AIML)<br/>2024–2028</sub>
+    </td>
+    <td width="14%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/FOCUS-047857?style=for-the-badge" />
+      <br/><br/>
+      <b>Real-Time AI</b>
+      <hr color="#047857" size="1" />
+      <sub>Computer Vision • Full Stack</sub>
+    </td>
+    <td width="14%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/WORK-022C22?style=for-the-badge" />
+      <br/><br/>
+      <b>Lead Editor</b>
+      <hr color="#022C22" size="1" />
+      <sub>@ UPES Content<br/>(@lifeatupes)</sub>
+    </td>
+    <td width="14%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/BUILDS-064E3B?style=for-the-badge" />
+      <br/><br/>
+      <b>Smart Tools</b>
+      <hr color="#064E3B" size="1" />
+      <sub>AI Productivity & Gesture UI Systems</sub>
+    </td>
+    <td width="14%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/POWER-059669?style=for-the-badge" />
+      <br/><br/>
+      <b>Bridge Builder</b>
+      <hr color="#059669" size="1" />
+      <sub>Deep Engineering meets High-End Creative</sub>
+    </td>
+    <td width="14%" valign="top" align="center">
+      <img src="https://img.shields.io/badge/GOALS-047857?style=for-the-badge" />
+      <br/><br/>
+      <b>Open To</b>
+      <hr color="#047857" size="1" />
+      <sub>Research • OSS • Internships • Hacks</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 I am a **2nd-year Computer Science student** at UPES Dehradun, specialising in **Artificial Intelligence and Machine Learning**. My work sits at the intersection of **real-time computer vision**, **full stack development**, and **professional media production** — an uncommon combination that lets me ship products that are both technically rigorous and visually compelling.
 
