@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=24273A,8AADF4,ED8796&height=200&section=header&text=ADITYA%20PARIHAR&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Creative%20Engineer%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=18181B,10B981,FBBF24&height=200&section=header&text=ADITYA%20PARIHAR&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Creative%20Engineer%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8AADF4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+Systems+that+Think+in+Real-Time;Computer+Vision+%2B+Full+Stack+%2B+Content+Engineering;Building+TripCo+%E2%80%94+A+Letterboxd+for+Travel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+Systems+that+Think+in+Real-Time;Computer+Vision+%2B+Full+Stack+%2B+Content+Engineering;Building+TripCo+%E2%80%94+A+Letterboxd+for+Travel)](https://git.io/typing-svg)
 <br/>
 
-![BTech CSE AIML](https://img.shields.io/badge/BTech%20CSE-AIML-24273A?style=for-the-badge&logo=academia&logoColor=white)
-![UPES](https://img.shields.io/badge/UPES-Dehradun-8AADF4?style=for-the-badge&logo=university&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-7.0-ED8796?style=for-the-badge&logo=star&logoColor=white)
-![Location](https://img.shields.io/badge/India-Dehradun-24273A?style=for-the-badge&logo=google-maps&logoColor=white)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-24273A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/adityaparihar21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8AADF4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-parihar-974b72281)
-[![Email](https://img.shields.io/badge/Email-ED8796?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parihar21aditya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-24273A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
+![BTech CSE AIML](https://img.shields.io/badge/BTech%20CSE-AIML-18181B?style=for-the-badge&logo=academia&logoColor=white)
+![UPES](https://img.shields.io/badge/UPES-Dehradun-10B981?style=for-the-badge&logo=university&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-7.0-FBBF24?style=for-the-badge&logo=star&logoColor=white)
+![Location](https://img.shields.io/badge/India-Dehradun-18181B?style=for-the-badge&logo=google-maps&logoColor=white)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adityaparihar21&style=for-the-badge&color=8AADF4&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/adityaparihar21?style=for-the-badge&color=24273A&logo=github&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/adityaparihar21?style=for-the-badge&color=ED8796&logo=github&label=STARS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/adityaparihar21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-parihar-974b72281)
+[![Email](https://img.shields.io/badge/Email-FBBF24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parihar21aditya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=adityaparihar21&style=for-the-badge&color=10B981&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/adityaparihar21?style=for-the-badge&color=18181B&logo=github&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/adityaparihar21?style=for-the-badge&color=FBBF24&logo=github&label=STARS)
 
 </div>
 
@@ -36,52 +36,52 @@
 <table width="100%" cellspacing="0" cellpadding="8">
   <tr>
     <td width="14%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/ROLE-ED8796?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/ROLE-FBBF24?style=for-the-badge" />
       <br/><br/>
       <b>Creative Engineer</b>
-      <hr color="#ED8796" size="1" />
+      <hr color="#FBBF24" size="1" />
       <sub>AI/ML • CV • Video Production</sub>
     </td>
     <td width="14%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/UNI-24273A?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/UNI-18181B?style=for-the-badge" />
       <br/><br/>
       <b>UPES Dehradun</b>
-      <hr color="#24273A" size="1" />
+      <hr color="#18181B" size="1" />
       <sub>BTech CSE (AIML)<br/>2024–2028</sub>
     </td>
     <td width="14%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/FOCUS-8AADF4?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/FOCUS-10B981?style=for-the-badge" />
       <br/><br/>
       <b>Real-Time AI</b>
-      <hr color="#8AADF4" size="1" />
+      <hr color="#10B981" size="1" />
       <sub>Computer Vision • Full Stack</sub>
     </td>
     <td width="14%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/WORK-24273A?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/WORK-18181B?style=for-the-badge" />
       <br/><br/>
       <b>Lead Editor</b>
-      <hr color="#24273A" size="1" />
+      <hr color="#18181B" size="1" />
       <sub>@ UPES Content<br/>(@lifeatupes)</sub>
     </td>
     <td width="14%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/BUILDS-ED8796?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/BUILDS-FBBF24?style=for-the-badge" />
       <br/><br/>
       <b>Smart Tools</b>
-      <hr color="#ED8796" size="1" />
+      <hr color="#FBBF24" size="1" />
       <sub>AI Productivity & Gesture UI Systems</sub>
     </td>
     <td width="14%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/POWER-24273A?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/POWER-18181B?style=for-the-badge" />
       <br/><br/>
       <b>Bridge Builder</b>
-      <hr color="#24273A" size="1" />
+      <hr color="#18181B" size="1" />
       <sub>Deep Engineering meets High-End Creative</sub>
     </td>
     <td width="14%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/GOALS-8AADF4?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/GOALS-10B981?style=for-the-badge" />
       <br/><br/>
       <b>Open To</b>
-      <hr color="#8AADF4" size="1" />
+      <hr color="#10B981" size="1" />
       <sub>Research • OSS • Internships • Hacks</sub>
     </td>
   </tr>
@@ -125,12 +125,12 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Computer Vision** | <img src="https://img.shields.io/badge/-Advanced-ED8796?style=flat-square&logoColor=white" /> | Real-time camera feed processing, OpenCV pipelines, frame analysis |
-| **Hand Tracking & Gesture Recognition** | <img src="https://img.shields.io/badge/-Advanced-ED8796?style=flat-square&logoColor=white" /> | MediaPipe Hands, coordinate mapping, gesture-to-action interfaces |
-| **Image Processing** | <img src="https://img.shields.io/badge/-Intermediate-8AADF4?style=flat-square&logoColor=white" /> | ASCII art rendering, pixel manipulation, resolution-aware export |
-| **AI-Powered Productivity Tools** | <img src="https://img.shields.io/badge/-Intermediate-8AADF4?style=flat-square&logoColor=white" /> | StudyPilot — AI chatbot, smart schedulers, analytics dashboards |
-| **JDBC & Data Persistence** | <img src="https://img.shields.io/badge/-Intermediate-8AADF4?style=flat-square&logoColor=white" /> | Relational DB integration with Java for user-authenticated systems |
-| **Machine Learning Foundations** | <img src="https://img.shields.io/badge/-Developing-24273A?style=flat-square&logoColor=white" /> | AIML curriculum at UPES — supervised/unsupervised learning concepts |
+| **Computer Vision** | <img src="https://img.shields.io/badge/-Advanced-FBBF24?style=flat-square&logoColor=white" /> | Real-time camera feed processing, OpenCV pipelines, frame analysis |
+| **Hand Tracking & Gesture Recognition** | <img src="https://img.shields.io/badge/-Advanced-FBBF24?style=flat-square&logoColor=white" /> | MediaPipe Hands, coordinate mapping, gesture-to-action interfaces |
+| **Image Processing** | <img src="https://img.shields.io/badge/-Intermediate-10B981?style=flat-square&logoColor=white" /> | ASCII art rendering, pixel manipulation, resolution-aware export |
+| **AI-Powered Productivity Tools** | <img src="https://img.shields.io/badge/-Intermediate-10B981?style=flat-square&logoColor=white" /> | StudyPilot — AI chatbot, smart schedulers, analytics dashboards |
+| **JDBC & Data Persistence** | <img src="https://img.shields.io/badge/-Intermediate-10B981?style=flat-square&logoColor=white" /> | Relational DB integration with Java for user-authenticated systems |
+| **Machine Learning Foundations** | <img src="https://img.shields.io/badge/-Developing-18181B?style=flat-square&logoColor=white" /> | AIML curriculum at UPES — supervised/unsupervised learning concepts |
 
 ---
 
@@ -152,7 +152,7 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 | **Core Innovation** | Complex coordinate mapping between 3D hand space and 2D digital grid |
 | **Interaction Model** | Gesture-controlled puzzle manipulation — no peripheral devices |
 | **Impact** | Demonstrates human-computer interaction without traditional input devices |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-24273A?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
 
 Engineered a **MediaPipe-based landmark detection pipeline** in Java that processes each camera frame in real-time, extracts 21 hand keypoints, and maps their positions to puzzle grid coordinates. Implemented gesture classification logic to distinguish pick, place, and navigate actions — enabling fluid, natural interaction with the digital puzzle interface. The coordinate mapping system accounts for perspective distortion, ensuring spatial accuracy regardless of hand distance from the camera.
 
@@ -175,7 +175,7 @@ Engineered a **MediaPipe-based landmark detection pipeline** in Java that proces
 | **Performance** | Real-time frame conversion at camera capture rate |
 | **Output Quality** | High-resolution export with custom rendering pipeline |
 | **Impact** | Merges creative media with CV engineering — live generative art tool |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-24273A?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
 
 Built a **custom luminance-to-character mapping algorithm** that samples each pixel's brightness value and assigns a corresponding ASCII character from a density-ranked character set. The rendering engine processes each frame buffer, constructs the character grid, and outputs it to a styled canvas in real-time. Export functionality uses Java's image rendering APIs to produce full-resolution PNG files of any captured frame — retaining detail that on-screen rendering compresses.
 
@@ -198,7 +198,7 @@ Built a **custom luminance-to-character mapping algorithm** that samples each pi
 | **Security** | User login system with credential management |
 | **Features** | AI planner · Task management · Notes generator · Analytics · Reminders |
 | **Impact** | Reduces academic planning overhead — increases student productivity |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-24273A?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
 
 StudyPilot implements a **multi-module architecture** with a secure authentication layer (JDBC-backed user sessions), an AI study planner that dynamically allocates study blocks based on subject priority and deadline proximity, and an analytics dashboard that surfaces completion rates, time distribution, and performance trends. The integrated AI chatbot answers curriculum-related questions and suggests study strategies — acting as an on-demand academic assistant.
 
@@ -208,7 +208,7 @@ StudyPilot implements a **multi-module architecture** with a secure authenticati
 ---
 
 <details>
-<summary><b>TripCo — Curated Travel Itinerary App &nbsp; <img src="https://img.shields.io/badge/IN%20PROGRESS-8AADF4?style=flat-square&logoColor=white" /></b></summary>
+<summary><b>TripCo — Curated Travel Itinerary App &nbsp; <img src="https://img.shields.io/badge/IN%20PROGRESS-10B981?style=flat-square&logoColor=white" /></b></summary>
 
 <br/>
 
@@ -222,7 +222,7 @@ StudyPilot implements a **multi-module architecture** with a secure authenticati
 | **Features** | City tabs · Spot bookmarking · Satellite map explorer · User profile · Save state |
 | **Design** | Playfair Display + Inter · Letterboxd-inspired dark luxury aesthetic · Mobile-first |
 | **Status** | Active development — new cities and features being added |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-24273A?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
 
 Architected as a **zero-dependency single-page application** with a custom view-routing system that transitions between four distinct screens (Explore, Map, Saved, Profile) using pure JS state management — no React, no Vue, no build toolchain. Each city's data lives in a dedicated JS module (`data-tokyo.js`, `data-goa.js`, etc.) loaded at runtime, making the codebase modular and easy to extend. The **Leaflet.js satellite layer** renders interactive maps with custom-placed markers for every curated spot. Bookmark state is tracked in-session with a live counter synced to the Profile view. The UI is built mobile-first with a fixed bottom navigation bar, iOS-style status bar, and smooth view transitions — designed to feel like a native travel app.
 
@@ -286,19 +286,19 @@ Independent freelance practice delivering professional video production services
 
 **UPES & Academic**
 
-![UPES](https://img.shields.io/badge/UPES-BTech%20CSE%20AIML-24273A?style=for-the-badge&logo=academia&logoColor=white)
-![OOP Java](https://img.shields.io/badge/OOP-Java%20Programming-8AADF4?style=for-the-badge&logo=java&logoColor=white)
+![UPES](https://img.shields.io/badge/UPES-BTech%20CSE%20AIML-18181B?style=for-the-badge&logo=academia&logoColor=white)
+![OOP Java](https://img.shields.io/badge/OOP-Java%20Programming-10B981?style=for-the-badge&logo=java&logoColor=white)
 
 **AI / Vision**
 
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-24273A?style=for-the-badge&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-ED8796?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-18181B?style=for-the-badge&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-FBBF24?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Creative Production**
 
-![Premiere Pro](https://img.shields.io/badge/Adobe-Premiere%20Pro-24273A?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![After Effects](https://img.shields.io/badge/Adobe-After%20Effects-8AADF4?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![DaVinci](https://img.shields.io/badge/Blackmagic-DaVinci%20Resolve-24273A?style=for-the-badge&logo=blackmagic-design&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Adobe-Premiere%20Pro-18181B?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/Adobe-After%20Effects-10B981?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![DaVinci](https://img.shields.io/badge/Blackmagic-DaVinci%20Resolve-18181B?style=for-the-badge&logo=blackmagic-design&logoColor=white)
 
 ---
 
@@ -308,7 +308,7 @@ Independent freelance practice delivering professional video production services
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-24273A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
 
 </div>
 
@@ -319,12 +319,12 @@ Independent freelance practice delivering professional video production services
 </div>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaparihar21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=24273A&title_color=ED8796&text_color=FFFFFF&icon_color=8AADF4&ring_color=8AADF4" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaparihar21&layout=compact&langs_count=8&hide_border=true&bg_color=24273A&title_color=8AADF4&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaparihar21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=18181B&title_color=FBBF24&text_color=FFFFFF&icon_color=10B981&ring_color=10B981" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaparihar21&layout=compact&langs_count=8&hide_border=true&bg_color=18181B&title_color=10B981&text_color=FFFFFF" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaparihar21&hide_border=true&background=24273A&ring=8AADF4&fire=ED8796&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaparihar21&hide_border=true&background=18181B&ring=10B981&fire=FBBF24&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 </div>
 
 ---
@@ -334,7 +334,7 @@ Independent freelance practice delivering professional video production services
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaparihar21&bg_color=24273A&color=8AADF4&line=ED8796&point=FFFFFF&area=true&area_color=24273A&hide_border=true&custom_title=Aditya's%20Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaparihar21&bg_color=18181B&color=10B981&line=FBBF24&point=FFFFFF&area=true&area_color=18181B&hide_border=true&custom_title=Aditya's%20Contribution%20Graph" width="100%" />
 </div>
 
 ---
@@ -349,7 +349,7 @@ Independent freelance practice delivering professional video production services
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/◈%20LEARNING-ED8796?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/◈%20LEARNING-FBBF24?style=for-the-badge" />
       </div>
       <blockquote>
         <ul>
@@ -362,7 +362,7 @@ Independent freelance practice delivering professional video production services
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/◈%20BUILDING-8AADF4?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/◈%20BUILDING-10B981?style=for-the-badge" />
       </div>
       <blockquote>
         <ul>
@@ -377,7 +377,7 @@ Independent freelance practice delivering professional video production services
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/◈%20EXPLORING-24273A?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/◈%20EXPLORING-18181B?style=for-the-badge" />
       </div>
       <blockquote>
         <ul>
@@ -390,7 +390,7 @@ Independent freelance practice delivering professional video production services
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/◈%20OPEN%20TO-ED8796?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/◈%20OPEN%20TO-FBBF24?style=for-the-badge" />
       </div>
       <blockquote>
         <ul>
@@ -414,9 +414,9 @@ Independent freelance practice delivering professional video production services
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/parihar21aditya%40gmail.com-ED8796?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parihar21aditya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8AADF4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-parihar-974b72281)
-[![GitHub](https://img.shields.io/badge/github.com%2Fadityaparihar21-24273A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
+[![Gmail](https://img.shields.io/badge/parihar21aditya%40gmail.com-FBBF24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parihar21aditya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-parihar-974b72281)
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
 
 </div>
 
@@ -424,6 +424,6 @@ Independent freelance practice delivering professional video production services
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=ED8796,8AADF4,24273A&height=180&section=footer&text=%22The%20best%20engineers%20are%20the%20ones%20who%20care%20about%20the%20craft%22&fontSize=20&fontColor=FFFFFF&desc=%E2%80%94%20both%20in%20the%20code%20they%20write%20and%20the%20systems%20they%20design.&descSize=14&descAlignY=65&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=FBBF24,10B981,18181B&height=180&section=footer&text=%22The%20best%20engineers%20are%20the%20ones%20who%20care%20about%20the%20craft%22&fontSize=20&fontColor=FFFFFF&desc=%E2%80%94%20both%20in%20the%20code%20they%20write%20and%20the%20systems%20they%20design.&descSize=14&descAlignY=65&animation=twinkling" width="100%" />
 
 </div>
