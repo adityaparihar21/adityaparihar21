@@ -31,50 +31,61 @@
 <div align="center">
 <h2>◈ &nbsp; ABOUT ME &nbsp; ◈</h2>
 </div>
-
 <div align="center">
 
-<details>
-  <summary><img src="https://img.shields.io/badge/◈%20ROLE%20&%20SUPERPOWER-064E3B?style=for-the-badge" style="cursor: pointer;" /></summary>
-  <br/>
-  <blockquote>
-    <b>Creative Engineer</b> — AI/ML + Computer Vision + Video Production<br/>
-    <i>Bridging deep technical engineering with high-end creative production.</i>
-  </blockquote>
-  <br/>
-</details>
-
-<details>
-  <summary><img src="https://img.shields.io/badge/◈%20EDUCATION%20&%20FOCUS-059669?style=for-the-badge" style="cursor: pointer;" /></summary>
-  <br/>
-  <blockquote>
-    <b>UPES Dehradun</b> — BTech CSE (AIML), 2024–2028<br/>
-    <b>Focus:</b> Real-Time AI Systems · Computer Vision · Full Stack Engineering
-  </blockquote>
-  <br/>
-</details>
-
-<details>
-  <summary><img src="https://img.shields.io/badge/◈%20CURRENT%20WORK%20&%20BUILDING-047857?style=for-the-badge" style="cursor: pointer;" /></summary>
-  <br/>
-  <blockquote>
-    <b>Lead Video Editor & Content Creator</b> @ UPES (@lifeatupes)<br/>
-    <b>Building:</b> AI-powered productivity tools and gesture-based interaction systems
-  </blockquote>
-  <br/>
-</details>
-
-<details>
-  <summary><img src="https://img.shields.io/badge/◈%20OPEN%20TO-022C22?style=for-the-badge" style="cursor: pointer;" /></summary>
-  <br/>
-  <blockquote>
-    Research Collaborations · Open Source · Internships · Hackathons
-  </blockquote>
-  <br/>
-</details>
+<table border="0" cellspacing="0" cellpadding="15">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <details>
+        <summary><img src="https://img.shields.io/badge/◈%20ROLE%20&%20SUPERPOWER-064E3B?style=for-the-badge" style="cursor: pointer;" /></summary>
+        <br/>
+        <blockquote align="left">
+          <b>Creative Engineer</b><br/>
+          AI/ML + Computer Vision + Video Production<br/><br/>
+          <i>Bridging deep technical engineering with high-end creative production.</i>
+        </blockquote>
+      </details>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <details>
+        <summary><img src="https://img.shields.io/badge/◈%20EDUCATION%20&%20FOCUS-059669?style=for-the-badge" style="cursor: pointer;" /></summary>
+        <br/>
+        <blockquote align="left">
+          <b>UPES Dehradun</b><br/>
+          BTech CSE (AIML), 2024–2028<br/><br/>
+          <b>Focus:</b> Real-Time AI Systems · Computer Vision · Full Stack
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <details>
+        <summary><img src="https://img.shields.io/badge/◈%20CURRENT%20WORK%20&%20BUILDING-047857?style=for-the-badge" style="cursor: pointer;" /></summary>
+        <br/>
+        <blockquote align="left">
+          <b>Lead Video Editor & Content Creator</b><br/>
+          @ UPES (@lifeatupes)<br/><br/>
+          <b>Building:</b> AI productivity tools & gesture interaction systems
+        </blockquote>
+      </details>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <details>
+        <summary><img src="https://img.shields.io/badge/◈%20OPEN%20TO-022C22?style=for-the-badge" style="cursor: pointer;" /></summary>
+        <br/>
+        <blockquote align="left">
+          <b>Research Collaborations</b><br/>
+          Open Source Contributions<br/>
+          Summer Internships<br/>
+          Hackathons
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+</table>
 
 </div>
-
 I am a **2nd-year Computer Science student** at UPES Dehradun, specialising in **Artificial Intelligence and Machine Learning**. My work sits at the intersection of **real-time computer vision**, **full stack development**, and **professional media production** — an uncommon combination that lets me ship products that are both technically rigorous and visually compelling.
 
 I have over a year of hands-on industry experience as **Lead Video Editor** for UPES's official social platform (`@lifeatupes`), where I own end-to-end production workflows for institutional branding content reaching thousands of students. In parallel, I architect AI systems in Java using **MediaPipe**, **OpenCV**, and gesture-tracking pipelines — delivering tools like a **real-time ASCII Art Engine** and a **Webcam AI Puzzle Solver** powered by hand-tracking algorithms.
