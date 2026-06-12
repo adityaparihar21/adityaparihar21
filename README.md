@@ -319,12 +319,12 @@ Independent freelance practice delivering professional video production services
 </div>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaparihar21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=845D3E&title_color=DFF5ED&text_color=DFF5ED&icon_color=DFF5ED&ring_color=DFF5ED" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaparihar21&layout=compact&langs_count=8&hide_border=true&bg_color=845D3E&title_color=DFF5ED&text_color=DFF5ED" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaparihar21&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=845D3E&title_color=DFF5ED&text_color=DFF5ED&icon_color=DFF5ED&ring_color=DFF5ED&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaparihar21&layout=compact&langs_count=8&hide_border=true&bg_color=845D3E&title_color=DFF5ED&text_color=DFF5ED&cache_seconds=86400" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaparihar21&hide_border=true&background=845D3E&ring=DFF5ED&fire=DFF5ED&currStreakLabel=DFF5ED&sideLabels=DFF5ED&currStreakNum=DFF5ED&sideNums=DFF5ED&dates=DFF5ED" />
+<img src="https://streak-stats.demolab.com/?user=adityaparihar21&hide_border=true&background=845D3E&ring=DFF5ED&fire=DFF5ED&currStreakLabel=DFF5ED&sideLabels=DFF5ED&currStreakNum=DFF5ED&sideNums=DFF5ED&dates=DFF5ED" />
 </div>
 
 ---
