@@ -33,64 +33,80 @@
 </div>
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="15">
+<table border="0" cellspacing="0" cellpadding="15" width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" valign="top" align="left">
       <details>
         <summary><img src="https://img.shields.io/badge/◈%20ROLE%20&%20SUPERPOWER-064E3B?style=for-the-badge" style="cursor: pointer;" /></summary>
         <br/>
-        <blockquote align="left">
-          <b>Creative Engineer</b><br/>
-          AI/ML + Computer Vision + Video Production<br/><br/>
-          <i>Bridging deep technical engineering with high-end creative production.</i>
-        </blockquote>
+        <div align="center">
+          <blockquote>
+            <div align="right">
+              <b>Creative Engineer</b><br/>
+              AI/ML + Computer Vision + Video Production<br/><br/>
+              <i>Bridging deep technical engineering with high-end creative production.</i>
+            </div>
+          </blockquote>
+        </div>
       </details>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" valign="top" align="left">
       <details>
         <summary><img src="https://img.shields.io/badge/◈%20EDUCATION%20&%20FOCUS-059669?style=for-the-badge" style="cursor: pointer;" /></summary>
         <br/>
-        <blockquote align="left">
-          <b>UPES Dehradun</b><br/>
-          BTech CSE (AIML), 2024–2028<br/><br/>
-          <b>Focus:</b> Real-Time AI Systems · Computer Vision · Full Stack
-        </blockquote>
+        <div align="center">
+          <blockquote>
+            <div align="right">
+              <b>UPES Dehradun</b><br/>
+              BTech CSE (AIML), 2024–2028<br/><br/>
+              <b>Focus:</b> Real-Time AI Systems · Computer Vision · Full Stack Engineering
+            </div>
+          </blockquote>
+        </div>
       </details>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" valign="top" align="left">
       <details>
         <summary><img src="https://img.shields.io/badge/◈%20CURRENT%20WORK%20&%20BUILDING-047857?style=for-the-badge" style="cursor: pointer;" /></summary>
         <br/>
-        <blockquote align="left">
-          <b>Lead Video Editor & Content Creator</b><br/>
-          @ UPES (@lifeatupes)<br/><br/>
-          <b>Building:</b> AI productivity tools & gesture interaction systems
-        </blockquote>
+        <div align="center">
+          <blockquote>
+            <div align="right">
+              <b>Lead Video Editor & Content Creator</b><br/>
+              @ UPES (@lifeatupes)<br/><br/>
+              <b>Building:</b> AI productivity tools & gesture interaction systems
+            </div>
+          </blockquote>
+        </div>
       </details>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="50%" valign="top" align="left">
       <details>
         <summary><img src="https://img.shields.io/badge/◈%20OPEN%20TO-022C22?style=for-the-badge" style="cursor: pointer;" /></summary>
         <br/>
-        <blockquote align="left">
-          <b>Research Collaborations</b><br/>
-          Open Source Contributions<br/>
-          Summer Internships<br/>
-          Hackathons
-        </blockquote>
+        <div align="center">
+          <blockquote>
+            <div align="right">
+              <b>Research Collaborations</b><br/>
+              Open Source Contributions<br/>
+              Summer Internships<br/>
+              Hackathons
+            </div>
+          </blockquote>
+        </div>
       </details>
     </td>
   </tr>
 </table>
 
 </div>
-I am a **2nd-year Computer Science student** at UPES Dehradun, specialising in **Artificial Intelligence and Machine Learning**. My work sits at the intersection of **real-time computer vision**, **full stack development**, and **professional media production** — an uncommon combination that lets me ship products that are both technically rigorous and visually compelling.
+I am a 2nd-year Computer Science student at UPES Dehradun, specialising in Artificial Intelligence and Machine Learning. My work sits at the intersection of real-time computer vision, full stack development, and professional media production— an uncommon combination that lets me ship products that are both technically rigorous and visually compelling.
 
-I have over a year of hands-on industry experience as **Lead Video Editor** for UPES's official social platform (`@lifeatupes`), where I own end-to-end production workflows for institutional branding content reaching thousands of students. In parallel, I architect AI systems in Java using **MediaPipe**, **OpenCV**, and gesture-tracking pipelines — delivering tools like a **real-time ASCII Art Engine** and a **Webcam AI Puzzle Solver** powered by hand-tracking algorithms.
+I have over a year of hands-on industry experience as **Lead Video Editor** for UPES's official social platform (`@life_at_upes`), where I own end-to-end production workflows for institutional branding content reaching thousands of students. In parallel, I architect AI systems in Java using **MediaPipe**, **OpenCV**, and gesture-tracking pipelines — delivering tools like a **real-time ASCII Art Engine** and a **Webcam AI Puzzle Solver** powered by hand-tracking algorithms.
 
-> **Open To:** Research Internships · AI/ML Projects · Open Source Contributions · Technical Collaborations
+> Open To: Research Internships · AI/ML Projects · Open Source Contributions · Technical Collaborations
 
 ---
 
@@ -98,19 +114,19 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 <h2>◈ &nbsp; TECH STACK &nbsp; ◈</h2>
 </div>
 
-**Languages**
+Languages**
 
 [![Languages](https://skillicons.dev/icons?i=java,python,c&theme=dark)](https://skillicons.dev)
 
-**Frontend & Creative Tools**
+Frontend & Creative Tools**
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
 
-**Backend & Databases**
+Backend & Databases**
 
 [![Backend](https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark)](https://skillicons.dev)
 
-**AI / Vision / Tooling**
+AI / Vision / Tooling**
 
 [![AI Tools](https://skillicons.dev/icons?i=opencv,tensorflow,git,github,linux,vscode,idea&theme=dark)](https://skillicons.dev)
 
@@ -122,12 +138,12 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Computer Vision** | Advanced | Real-time camera feed processing, OpenCV pipelines, frame analysis |
-| **Hand Tracking & Gesture Recognition** | Advanced | MediaPipe Hands, coordinate mapping, gesture-to-action interfaces |
-| **Image Processing** | Intermediate | ASCII art rendering, pixel manipulation, resolution-aware export |
-| **AI-Powered Productivity Tools** | Intermediate | StudyPilot — AI chatbot, smart schedulers, analytics dashboards |
-| **JDBC & Data Persistence** | Intermediate | Relational DB integration with Java for user-authenticated systems |
-| **Machine Learning Foundations** |  Developing | AIML curriculum at UPES — supervised/unsupervised learning concepts |
+| Computer Vision** | Advanced | Real-time camera feed processing, OpenCV pipelines, frame analysis |
+| Hand Tracking & Gesture Recognition** | Advanced | MediaPipe Hands, coordinate mapping, gesture-to-action interfaces |
+| Image Processing** | Intermediate | ASCII art rendering, pixel manipulation, resolution-aware export |
+| AI-Powered Productivity Tools** | Intermediate | StudyPilot — AI chatbot, smart schedulers, analytics dashboards |
+| JDBC & Data Persistence** | Intermediate | Relational DB integration with Java for user-authenticated systems |
+| Machine Learning Foundations** |  Developing | AIML curriculum at UPES — supervised/unsupervised learning concepts |
 
 ---
 
@@ -167,11 +183,11 @@ Engineered a **MediaPipe-based landmark detection pipeline** in Java that proces
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Java · OpenCV · Image Processing · File I/O |
-| **Scale** | Desktop application — live video stream processing |
-| **Performance** | Real-time frame conversion at camera capture rate |
-| **Output Quality** | High-resolution export with custom rendering pipeline |
-| **Impact** | Merges creative media with CV engineering — live generative art tool |
+| Stack| Java · OpenCV · Image Processing · File I/O |
+| Scale | Desktop application — live video stream processing |
+| Performance | Real-time frame conversion at camera capture rate |
+| Output Quality | High-resolution export with custom rendering pipeline |
+| Impact | Merges creative media with CV engineering — live generative art tool |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
 
 Built a **custom luminance-to-character mapping algorithm** that samples each pixel's brightness value and assigns a corresponding ASCII character from a density-ranked character set. The rendering engine processes each frame buffer, constructs the character grid, and outputs it to a styled canvas in real-time. Export functionality uses Java's image rendering APIs to produce full-resolution PNG files of any captured frame — retaining detail that on-screen rendering compresses.
