@@ -32,17 +32,61 @@
 <h2>◈ &nbsp; ABOUT ME &nbsp; ◈</h2>
 </div>
 
-```typescript
-const adityaParihar: Engineer = {
-  role        : "Creative Engineer — AI/ML + Computer Vision + Video Production",
-  university  : "UPES Dehradun — BTech CSE (AIML), 2024–2028",
-  focus       : ["Real-Time AI Systems", "Computer Vision", "Full Stack Engineering"],
-  currentWork : "Lead Video Editor & Content Creator @ UPES (@lifeatupes)",
-  building    : "AI-powered productivity tools and gesture-based interaction systems",
-  superpower  : "Bridging deep technical engineering with high-end creative production",
-  openTo      : ["Research Collaborations", "Open Source", "Internships", "Hackathons"],
-};
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/ROLE-7C3AED?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Creative%20Engineer-1a1a2e?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/AI%2FML%20%2B%20CV-2d1b69?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Video%20Production-1a1a2e?style=flat-square&logoColor=white" />
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/UNIVERSITY-5B21B6?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/UPES%20Dehradun-1a1a2e?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/BTech%20CSE%20AIML-2d1b69?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/2024%E2%80%932028-1a1a2e?style=flat-square&logoColor=white" />
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/FOCUS-6D28D9?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Real--Time%20AI-1a1a2e?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Computer%20Vision-2d1b69?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Full%20Stack-1a1a2e?style=flat-square&logoColor=white" />
+</td>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/BUILDING-4C1D95?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/TripCo%20App-1a1a2e?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/StudyPilot%20AI-2d1b69?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/CV%20Tools-1a1a2e?style=flat-square&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/CURRENT%20WORK-7C3AED?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Lead%20Video%20Editor-1a1a2e?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/%40lifeatupes%20%E2%80%94%20UPES-2d1b69?style=flat-square&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/SUPERPOWER-5B21B6?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Engineering%20%2B%20Creativity-1a1a2e?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Code%20meets%20Craft-2d1b69?style=flat-square&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/LANGUAGES-6D28D9?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/English-1a1a2e?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Hindi-2d1b69?style=flat-square&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/OPEN%20TO-4C1D95?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Internships-1a1a2e?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Open%20Source-2d1b69?style=flat-square&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Hackathons-1a1a2e?style=flat-square&logoColor=white" />
+</td>
+</tr>
+</table>
+
+</div>
 
 I am a **2nd-year Computer Science student** at UPES Dehradun, specialising in **Artificial Intelligence and Machine Learning**. My work sits at the intersection of **real-time computer vision**, **full stack development**, and **professional media production** — an uncommon combination that lets me ship products that are both technically rigorous and visually compelling.
 
