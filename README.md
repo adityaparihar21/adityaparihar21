@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ADITYA%20PARIHAR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Creative%20Engineer%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+Systems+that+Think+in+Real-Time;Computer+Vision+%2B+Full+Stack+%2B+Content+Engineering;2nd+Year+CSE+%E2%80%94+AIML+%40+UPES+Dehradun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+Systems+that+Think+in+Real-Time;Computer+Vision+%2B+Full+Stack+%2B+Content+Engineering;Building+TripCo+%E2%80%94+A+Letterboxd+for+Travel;2nd+Year+CSE+%E2%80%94+AIML+%40+UPES+Dehradun)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/adityaparihar21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaparihar21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aditya-parihar-974b72281)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parihar21aditya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
 
@@ -162,6 +162,30 @@ StudyPilot implements a **multi-module architecture** with a secure authenticati
 
 ---
 
+<details>
+<summary><b>🗺️ &nbsp; TripCo — Curated Travel Itinerary App &nbsp; <img src="https://img.shields.io/badge/IN%20PROGRESS-7C3AED?style=flat-square&logoColor=white" /></b></summary>
+
+<br/>
+
+> A **Letterboxd-style mobile travel journal** and itinerary explorer built entirely in vanilla HTML, CSS, and JavaScript. TripCo lets users browse curated city guides across 10 destinations — from Tokyo to Goa — with an interactive Leaflet.js satellite map, spot bookmarking, and a full profile system. Currently under active development.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | HTML · CSS · Vanilla JavaScript · Leaflet.js · OpenStreetMap |
+| **Scale** | 10 cities — Tokyo, Delhi, Dehradun, Shimla, Jaipur, Mumbai, Bangalore, Prague, Udaipur, Goa |
+| **Architecture** | Multi-view SPA — Explore · Map · Saved · Profile — zero framework dependencies |
+| **Features** | City tabs · Spot bookmarking · Satellite map explorer · User profile · Save state |
+| **Design** | Playfair Display + Inter · Letterboxd-inspired dark luxury aesthetic · Mobile-first |
+| **Status** | 🟣 Active development — new cities and features being added |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
+
+Architected as a **zero-dependency single-page application** with a custom view-routing system that transitions between four distinct screens (Explore, Map, Saved, Profile) using pure JS state management — no React, no Vue, no build toolchain. Each city's data lives in a dedicated JS module (`data-tokyo.js`, `data-goa.js`, etc.) loaded at runtime, making the codebase modular and easy to extend. The **Leaflet.js satellite layer** renders interactive maps with custom-placed markers for every curated spot. Bookmark state is tracked in-session with a live counter synced to the Profile view. The UI is built mobile-first with a fixed bottom navigation bar, iOS-style status bar, and smooth view transitions — designed to feel like a native travel app.
+
+<br/>
+</details>
+
+---
+
 <div align="center">
 <h2>◈ &nbsp; EXPERIENCE &nbsp; ◈</h2>
 </div>
@@ -238,7 +262,6 @@ Independent freelance practice delivering professional video production services
 </div>
 
 <div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
 
 </div>
@@ -308,10 +331,10 @@ Learning:
   - Full Stack web development — React, Node.js, REST APIs
 
 Building:
+  - TripCo — Letterboxd-style travel itinerary app (HTML/CSS/JS + Leaflet.js) [ACTIVE]
   - Expanding StudyPilot with cloud sync and multi-user collaboration
   - New gesture-based human-computer interaction prototypes
   - Open source computer vision utilities in Java and Python
-  - Personal portfolio site — showcasing engineering + creative work
 
 Exploring:
   - Real-time video processing pipelines with GPU acceleration
@@ -335,8 +358,9 @@ Open To:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/parihar21aditya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parihar21aditya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-parihar-974b72281/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aditya-parihar-974b72281)
 [![GitHub](https://img.shields.io/badge/github.com%2Fadityaparihar21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
+
 
 </div>
 
@@ -349,4 +373,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
-
