@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ADITYA%20PARIHAR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Creative%20Engineer%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+Systems+that+Think+in+Real-Time;Computer+Vision+%2B+Full+Stack+%2B+Content+Engineering;Building+TripCo+%E2%80%94+A+Letterboxd+for+Travel;2nd+Year+CSE+%E2%80%94+AIML+%40+UPES+Dehradun)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=E50010&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+Systems+that+Think+in+Real-Time;Computer+Vision+%2B+Full+Stack+%2B+Content+Engineering;Building+TripCo+%E2%80%94+A+Letterboxd+for+Travel)](https://git.io/typing-svg)
 <br/>
 
 ![BTech CSE AIML](https://img.shields.io/badge/BTech%20CSE-AIML-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
