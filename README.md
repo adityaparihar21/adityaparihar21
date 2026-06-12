@@ -239,9 +239,6 @@ Independent freelance practice delivering professional video production services
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/adityaparihar21)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/adityaparihar21)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/adityaparihar21)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
 
 </div>
@@ -338,9 +335,8 @@ Open To:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/parihar21aditya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parihar21aditya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaparihar21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-parihar-974b72281/))
 [![GitHub](https://img.shields.io/badge/github.com%2Fadityaparihar21-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
-[![Phone](https://img.shields.io/badge/+91%207983304910-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917983304910)
 
 </div>
 
@@ -354,17 +350,3 @@ Open To:
 
 </div>
 
-<!--
-**adityaparihar21/adityaparihar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
