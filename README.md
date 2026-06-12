@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ADITYA%20PARIHAR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Creative%20Engineer%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=16" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+Systems+that+Think+in+Real-Time;Computer+Vision+%2B+Full+Stack+%2B+Content+Engineering;Building+TripCo+%E2%80%94+A+Letterboxd+for+Travel;2nd+Year+CSE+%E2%80%94+AIML+%40+UPES+Dehradun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+Systems+that+Think+in+Real-Time;Computer+Vision+%2B+Full+Stack+%2B+Content+Engineering;Building+TripCo+%E2%80%94+A+Letterboxd+for+Travel](https://git.io/typing-svg)
 
 <br/>
 
@@ -114,19 +114,19 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 <h2>◈ &nbsp; TECH STACK &nbsp; ◈</h2>
 </div>
 
-Languages**
+Languages
 
 [![Languages](https://skillicons.dev/icons?i=java,python,c&theme=dark)](https://skillicons.dev)
 
-Frontend & Creative Tools**
+Frontend & Creative Tools
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
 
-Backend & Databases**
+Backend & Databases
 
 [![Backend](https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark)](https://skillicons.dev)
 
-AI / Vision / Tooling**
+AI / Vision / Tooling
 
 [![AI Tools](https://skillicons.dev/icons?i=opencv,tensorflow,git,github,linux,vscode,idea&theme=dark)](https://skillicons.dev)
 
@@ -160,12 +160,12 @@ AI / Vision / Tooling**
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Java · MediaPipe · OpenCV · Hand Tracking Algorithms |
-| **Scale** | Single-user real-time desktop application |
-| **Core Innovation** | Complex coordinate mapping between 3D hand space and 2D digital grid |
-| **Interaction Model** | Gesture-controlled puzzle manipulation — no peripheral devices |
-| **Impact** | Demonstrates human-computer interaction without traditional input devices |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
+| Stack | Java · MediaPipe · OpenCV · Hand Tracking Algorithms |
+| Scale| Single-user real-time desktop application |
+| Core Innovation | Complex coordinate mapping between 3D hand space and 2D digital grid |
+| Interaction Model | Gesture-controlled puzzle manipulation — no peripheral devices |
+| Impact | Demonstrates human-computer interaction without traditional input devices |
+| Repository | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
 
 Engineered a **MediaPipe-based landmark detection pipeline** in Java that processes each camera frame in real-time, extracts 21 hand keypoints, and maps their positions to puzzle grid coordinates. Implemented gesture classification logic to distinguish pick, place, and navigate actions — enabling fluid, natural interaction with the digital puzzle interface. The coordinate mapping system accounts for perspective distortion, ensuring spatial accuracy regardless of hand distance from the camera.
 
@@ -206,12 +206,12 @@ Built a **custom luminance-to-character mapping algorithm** that samples each pi
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Java · JDBC · AI Chatbot Integration · Analytics Engine |
-| **Scale** | Multi-user — full authentication system with persistent data |
-| **Security** | User login system with credential management |
-| **Features** | AI planner · Task management · Notes generator · Analytics · Reminders |
-| **Impact** | Reduces academic planning overhead — increases student productivity |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
+| Stack | Java · JDBC · AI Chatbot Integration · Analytics Engine |
+| Scale| Multi-user — full authentication system with persistent data |
+| Security | User login system with credential management |
+| Features | AI planner · Task management · Notes generator · Analytics · Reminders |
+| Impact | Reduces academic planning overhead — increases student productivity |
+| Repository | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adityaparihar21) |
 
 StudyPilot implements a **multi-module architecture** with a secure authentication layer (JDBC-backed user sessions), an AI study planner that dynamically allocates study blocks based on subject priority and deadline proximity, and an analytics dashboard that surfaces completion rates, time distribution, and performance trends. The integrated AI chatbot answers curriculum-related questions and suggests study strategies — acting as an on-demand academic assistant.
 
@@ -248,7 +248,7 @@ Architected as a **zero-dependency single-page application** with a custom view-
 <h2>◈ &nbsp; EXPERIENCE &nbsp; ◈</h2>
 </div>
 
-### &nbsp; Lead Video Editor & Content Creator — UPES `@lifeatupes`
+### &nbsp; Lead Video Editor & Content Creator — UPES `@life_at_upes`
 `2024 — Present`
 
 Serving as the primary video production lead for the **official UPES social media presence**, responsible for all video content that represents the university's brand identity to prospective students, faculty, and institutional partners.
@@ -293,21 +293,17 @@ Independent freelance practice delivering professional video production services
 
 ---
 
-<div align="center">
-<h2>◈ &nbsp; CERTIFICATIONS &nbsp; ◈</h2>
-</div>
-
-**UPES & Academic**
+UPES & Academic
 
 ![UPES](https://img.shields.io/badge/UPES-BTech%20CSE%20AIML-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
 ![OOP Java](https://img.shields.io/badge/OOP-Java%20Programming-5B21B6?style=for-the-badge&logo=java&logoColor=white)
 
-**AI / Vision**
+AI / Vision
 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-6D28D9?style=for-the-badge&logo=google&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-4C1D95?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Creative Production**
+Creative Production
 
 ![Premiere Pro](https://img.shields.io/badge/Adobe-Premiere%20Pro-9D174D?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/Adobe-After%20Effects-7C2D8F?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
@@ -362,36 +358,70 @@ Independent freelance practice delivering professional video production services
 <div align="center">
 <h2>◈ &nbsp; CURRENT FOCUS &nbsp; ◈</h2>
 </div>
+<div align="center">
 
-```yaml
+<table width="100%" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/◈%20LEARNING-064E3B?style=for-the-badge" />
+      </div>
+      <blockquote>
+        <ul>
+          <li><b>Deep Learning</b> architectures (CNNs, Transformers) for vision tasks</li>
+          <li><b>Python Ecosystem</b> for AI/ML — NumPy, PyTorch, scikit-learn</li>
+          <li><b>Data Structures & Algorithms</b> in JavaScript for competitive programming</li>
+          <li><b>Full Stack Web Dev</b> — React, Node.js, REST APIs</li>
+        </ul>
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/◈%20BUILDING-059669?style=for-the-badge" />
+      </div>
+      <blockquote>
+        <ul>
+          <li><b>TripCo</b> — Letterboxd-style travel itinerary app (HTML/CSS/JS + Leaflet.js) [ACTIVE]</li>
+          <li><b>StudyPilot</b> — Expanding with cloud sync and multi-user collaboration</li>
+          <li><b>HCI Prototypes</b> — New gesture-based human-computer interactions</li>
+          <li><b>Open Source CV</b> — Computer vision utilities built in JavaScript and Python</li>
+        </ul>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/◈%20EXPLORING-047857?style=for-the-badge" />
+      </div>
+      <blockquote>
+        <ul>
+          <li><b>Real-Time Video</b> — Processing pipelines with GPU acceleration</li>
+          <li><b>Edge AI</b> — Deployment of CV models directly on embedded hardware</li>
+          <li><b>Generative AI</b> — Enhancing creative media production workflows</li>
+          <li><b>LangChain & LLMs</b> — Integration for smart productivity applications</li>
+        </ul>
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/◈%20OPEN%20TO-022C22?style=for-the-badge" />
+      </div>
+      <blockquote>
+        <ul>
+          <li><b>Research Internships</b> — AI/ML and Computer Vision (Summer 2026 onwards)</li>
+          <li><b>Open Source</b> — Contributions to Web and Vision tooling</li>
+          <li><b>Hackathons</b> — Joining teams for product-focused AI builds</li>
+          <li><b>Collaborations</b> — Technical partnerships with student teams and indie devs</li>
+        </ul>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
-Learning:
-  - Deep Learning architectures (CNNs, Transformers) for vision tasks
-  - Python ecosystem for AI/ML — NumPy, PyTorch, scikit-learn
-  - Data Structures & Algorithms in Java for competitive programming
-  - Full Stack web development — React, Node.js, REST APIs
-
-Building:
-  - TripCo — Letterboxd-style travel itinerary app (HTML/CSS/JS + Leaflet.js) [ACTIVE]
-  - Expanding StudyPilot with cloud sync and multi-user collaboration
-  - New gesture-based human-computer interaction prototypes
-  - Open source computer vision utilities in Java and Python
-
-Exploring:
-  - Real-time video processing pipelines with GPU acceleration
-  - Edge AI deployment — running CV models on embedded hardware
-  - Generative AI for creative media production workflows
-  - LangChain and LLM integration for productivity applications
-
-Open To:
-  - AI/ML Research Internships (Summer 2025 onwards)
-  - Open Source Contributions — Computer Vision & Tooling
-  - Hackathon Teams — product-focused AI builds
-  - Technical Collaborations with student teams and indie devs
-```
+</div>
 
 ---
-
 <div align="center">
 <h2>◈ &nbsp; CONNECT &nbsp; ◈</h2>
 </div>
@@ -409,7 +439,7 @@ Open To:
 
 <div align="center">
 
-*"The best engineers are the ones who care about the craft — both in the code they write and the work they ship."*
+"The best engineers are the ones who care about the craft — both in the code they write and the work they ship."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
 
