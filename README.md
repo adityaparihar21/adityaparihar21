@@ -13,7 +13,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/adityaparihar21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaparihar21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-parihar-974b72281)
 [![Email](https://img.shields.io/badge/Email-E50010?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parihar21aditya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
 
@@ -308,9 +308,6 @@ Independent freelance practice delivering professional video production services
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=E50010)](https://leetcode.com/adityaparihar21)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1A1A1A?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/adityaparihar21)
-[![HackerRank](https://img.shields.io/badge/HackerRank-1A1A1A?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/adityaparihar21)
 [![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
 
 </div>
@@ -333,35 +330,11 @@ Independent freelance practice delivering professional video production services
 ---
 
 <div align="center">
-<h2>◈ &nbsp; GITHUB TROPHIES &nbsp; ◈</h2>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityaparihar21&theme=onDark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-</div>
-
----
-
-<div align="center">
 <h2>◈ &nbsp; CONTRIBUTION ACTIVITY &nbsp; ◈</h2>
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaparihar21&bg_color=1A1A1A&color=E50010&line=E50010&point=FFFFFF&area=true&area_color=E50010&hide_border=true&custom_title=Aditya's%20Contribution%20Graph" width="100%" />
-</div>
-
----
-
-<div align="center">
-<h2>◈ &nbsp; CONTRIBUTION SNAKE &nbsp; ◈</h2>
-</div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityaparihar21/adityaparihar21/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityaparihar21/adityaparihar21/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/adityaparihar21/adityaparihar21/output/github-snake.svg" />
-</picture>
 </div>
 
 ---
@@ -442,9 +415,8 @@ Independent freelance practice delivering professional video production services
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/parihar21aditya%40gmail.com-E50010?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parihar21aditya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaparihar21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-parihar-974b72281)
 [![GitHub](https://img.shields.io/badge/github.com%2Fadityaparihar21-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaparihar21)
-[![Phone](https://img.shields.io/badge/+91%207983304910-E50010?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917983304910)
 
 </div>
 
