@@ -34,13 +34,44 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Role%20&%20Superpower-064E3B?style=for-the-badge" title="Creative Engineer — AI/ML + Computer Vision + Video Production | Bridging deep technical engineering with high-end creative production" />
+<details>
+  <summary><img src="https://img.shields.io/badge/◈%20ROLE%20&%20SUPERPOWER-064E3B?style=for-the-badge" style="cursor: pointer;" /></summary>
+  <br/>
+  <blockquote>
+    <b>Creative Engineer</b> — AI/ML + Computer Vision + Video Production<br/>
+    <i>Bridging deep technical engineering with high-end creative production.</i>
+  </blockquote>
+  <br/>
+</details>
 
-<img src="https://img.shields.io/badge/Education%20&%20Focus-059669?style=for-the-badge" title="UPES Dehradun — BTech CSE (AIML), 2024–2028 | Focus: Real-Time AI Systems, Computer Vision, Full Stack Engineering" />
+<details>
+  <summary><img src="https://img.shields.io/badge/◈%20EDUCATION%20&%20FOCUS-059669?style=for-the-badge" style="cursor: pointer;" /></summary>
+  <br/>
+  <blockquote>
+    <b>UPES Dehradun</b> — BTech CSE (AIML), 2024–2028<br/>
+    <b>Focus:</b> Real-Time AI Systems · Computer Vision · Full Stack Engineering
+  </blockquote>
+  <br/>
+</details>
 
-<img src="https://img.shields.io/badge/Current%20Work%20&%20Building-047857?style=for-the-badge" title="Lead Video Editor & Content Creator @ UPES (@lifeatupes) | Building: AI-powered productivity tools and gesture-based interaction systems" />
+<details>
+  <summary><img src="https://img.shields.io/badge/◈%20CURRENT%20WORK%20&%20BUILDING-047857?style=for-the-badge" style="cursor: pointer;" /></summary>
+  <br/>
+  <blockquote>
+    <b>Lead Video Editor & Content Creator</b> @ UPES (@lifeatupes)<br/>
+    <b>Building:</b> AI-powered productivity tools and gesture-based interaction systems
+  </blockquote>
+  <br/>
+</details>
 
-<img src="https://img.shields.io/badge/Open%20To-022C22?style=for-the-badge" title="Research Collaborations, Open Source, Internships, Hackathons" />
+<details>
+  <summary><img src="https://img.shields.io/badge/◈%20OPEN%20TO-022C22?style=for-the-badge" style="cursor: pointer;" /></summary>
+  <br/>
+  <blockquote>
+    Research Collaborations · Open Source · Internships · Hackathons
+  </blockquote>
+  <br/>
+</details>
 
 </div>
 
@@ -284,9 +315,6 @@ Independent freelance practice delivering professional video production services
 
 ---
 
-<div align="center">
-<h2>◈ &nbsp; GITHUB TROPHIES &nbsp; ◈</h2>
-</div>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=adityaparihar21&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
