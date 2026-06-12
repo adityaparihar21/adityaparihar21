@@ -327,9 +327,6 @@ Independent freelance practice delivering professional video production services
 
 ---
 
-<div align="center">
-<h2>◈ &nbsp; GITHUB TROPHIES &nbsp; ◈</h2>
-</div>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=adityaparihar21&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
@@ -346,10 +343,6 @@ Independent freelance practice delivering professional video production services
 </div>
 
 ---
-
-<div align="center">
-<h2>◈ &nbsp; CONTRIBUTION SNAKE &nbsp; ◈</h2>
-</div>
 
 <div align="center">
 <picture>
