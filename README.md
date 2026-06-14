@@ -139,29 +139,6 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 </div>
 
 <details>
-<summary><b>Webcam AI Puzzle Solver — JavaScript & Hand Tracking</b></summary>
-
-<br/>
-
-> A real-time gaming application that lets users solve puzzles entirely through **hand gestures**, eliminating the need for a keyboard or mouse. The system interprets live hand landmarks from a webcam feed and maps physical movements to on-screen interactions with sub-100ms latency.
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | JavaScript · MediaPipe · OpenCV.js · Hand Tracking Algorithms |
-| **Scale** | Single-user real-time web application |
-| **Core Innovation** | Complex coordinate mapping between 3D hand space and 2D digital grid |
-| **Interaction Model** | Gesture-controlled puzzle manipulation — no peripheral devices |
-| **Impact** | Demonstrates human-computer interaction without traditional input devices |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-845D3E?style=flat-square&logo=github&logoColor=DFF5ED)](https://github.com/adityaparihar21) |
-
-Engineered a **MediaPipe-based landmark detection pipeline** in JavaScript that processes each camera frame in real-time, extracts 21 hand keypoints, and maps their positions to puzzle grid coordinates. Implemented gesture classification logic to distinguish pick, place, and navigate actions — enabling fluid, natural interaction with the digital puzzle interface. The coordinate mapping system accounts for perspective distortion, ensuring spatial accuracy regardless of hand distance from the camera.
-
-<br/>
-</details>
-
----
-
-<details>
 <summary><b>Real-Time ASCII Art Engine — JavaScript & Image Processing</b></summary>
 
 <br/>
