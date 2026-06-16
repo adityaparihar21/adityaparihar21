@@ -227,33 +227,6 @@ Built a **custom luminance-to-character mapping algorithm** that samples each pi
 ---
 
 <div align="center">
-<h2>◈ &nbsp; EXPERIENCE &nbsp; ◈</h2>
-</div>
-
-### Lead Video Editor & Content Creator — UPES `@lifeatupes`
-`2024 — Present`
-
-Serving as the primary video production lead for the **official UPES social media presence**, responsible for all video content that represents the university's brand identity to prospective students, faculty, and institutional partners.
-
-- Conceptualise, shoot, and edit high-impact **Introductory Reels** and institutional branding campaigns in collaboration with the university media team
-- Own end-to-end production pipelines — from pre-production scripting through post-production color grading and delivery
-- Drive **high engagement** on official social channels through narrative-driven content and precise motion graphic work
-
-`Adobe Premiere Pro` `After Effects` `DaVinci Resolve` `Cinematography` `Color Grading` `Motion Graphics`
-
----
-
-### Freelance Video Editor — General Club & Independent Clients
-`2023 — Present`
-
-- Deliver **professional-grade video edits** with focus on narrative flow, advanced color science, and motion graphics
-- Successfully balance full technical CSE coursework with consistent, deadline-driven freelance delivery
-
-`CapCut` `DaVinci Resolve` `Adobe Premiere Pro` `After Effects` `Photography`
-
----
-
-<div align="center">
 <h2>◈ &nbsp; ACHIEVEMENTS &nbsp; ◈</h2>
 </div>
 
@@ -267,6 +240,25 @@ Serving as the primary video production lead for the **official UPES social medi
 | **Real-Time CV Systems** | Built production-grade computer vision applications as a 1st-year undergraduate |
 | **Academic Excellence** | 83% in Class 12 (The Asian School) · 7.0 CGPA at UPES BTech CSE-AIML |
 | **AI Product Builder** | Shipped StudyPilot — a full-stack AI productivity platform |
+
+</div>
+
+---
+
+<div align="center">
+<h2>◈ &nbsp; CERTIFICATIONS &nbsp; ◈</h2>
+</div>
+
+<div align="center">
+
+| Certification | Issuer |
+|:---|:---:|
+| **Claude Code in Action** | <img src="https://img.shields.io/badge/Anthropic-F5F0E8?style=flat-square&logoColor=0A0A0A" /> |
+| **Claude with the Anthropic API** | <img src="https://img.shields.io/badge/Anthropic-F5F0E8?style=flat-square&logoColor=0A0A0A" /> |
+| **Claude Platform 101** | <img src="https://img.shields.io/badge/Anthropic-F5F0E8?style=flat-square&logoColor=0A0A0A" /> |
+| **Introduction to Claude Cowork** | <img src="https://img.shields.io/badge/Anthropic-F5F0E8?style=flat-square&logoColor=0A0A0A" /> |
+| **Claude Code 101** | <img src="https://img.shields.io/badge/Anthropic-F5F0E8?style=flat-square&logoColor=0A0A0A" /> |
+| **Claude 101** | <img src="https://img.shields.io/badge/Anthropic-F5F0E8?style=flat-square&logoColor=0A0A0A" /> |
 
 </div>
 
@@ -386,4 +378,4 @@ Serving as the primary video production lead for the **official UPES social medi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=0A0A0A,1A1A1A,0A0A0A&height=180&section=footer&text=%22I%20build%20software%20the%20way%20I%20edit%20film%22&fontSize=20&fontColor=C9A96E&desc=with%20intention%2C%20rhythm%2C%20and%20an%20obsession%20for%20the%20details%20that%20make%20a%20system%20feel%20alive.&descSize=14&descAlignY=65&animation=twinkling" width="100%" />
 
-</div>
+</div
