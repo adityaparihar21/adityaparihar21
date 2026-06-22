@@ -141,7 +141,6 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 
 <details>
 <summary><b>🎨 Real-Time ASCII Art Engine — JavaScript & Image Processing</b></summary>
-
 <br/>
 
 > A live camera-to-ASCII conversion engine that transforms real-time webcam input into dynamic ASCII art at playback speed. Users can freeze any frame and export it as a high-resolution downloadable file — bridging generative art with computer vision.
@@ -156,16 +155,11 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 | **Live Demo** | [![Portfolio](https://img.shields.io/badge/View%20on%20Portfolio-C9A96E?style=flat-square&logo=vercel&logoColor=0A0A0A)](https://portfolioparihar21.vercel.app) |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-F5F0E8?style=flat-square&logo=github&logoColor=0A0A0A)](https://github.com/adityaparihar21/ascii-webcam) |
 
-Built a **custom luminance-to-character mapping algorithm** that samples each pixel's brightness value and assigns a corresponding ASCII character from a density-ranked character set. The rendering engine processes each frame buffer, constructs the character grid, and outputs it to a styled canvas in real-time. Export functionality uses JavaScript's canvas and rendering APIs to produce full-resolution PNG files of any captured frame.
-
 <br/>
 </details>
 
----
-
 <details>
 <summary><b>✍️ Communal Typewriter Journal — React · Tailwind · Framer Motion</b></summary>
-
 <br/>
 
 > A cinematic digital journaling web app inspired by vintage typewriters, analog poetry, and dark academia interfaces. Features live sound design, ink ribbon switching, and snapshot exports.
@@ -182,11 +176,8 @@ Built a **custom luminance-to-character mapping algorithm** that samples each pi
 <br/>
 </details>
 
----
-
 <details>
 <summary><b>📚 StudyPilot — AI-Powered Academic Productivity Platform</b></summary>
-
 <br/>
 
 > An intelligent study planning application built for students managing complex academic schedules. StudyPilot combines smart scheduling, an AI chatbot assistant, automated reminders, and a rich analytics dashboard into a unified productivity platform.
@@ -203,11 +194,8 @@ Built a **custom luminance-to-character mapping algorithm** that samples each pi
 <br/>
 </details>
 
----
-
 <details>
 <summary><b>🗺️ TripCo — Curated Travel Itinerary App &nbsp; <img src="https://img.shields.io/badge/IN%20PROGRESS-F5F0E8?style=flat-square&logoColor=0A0A0A" /></b></summary>
-
 <br/>
 
 > A **Letterboxd-style mobile travel journal** and itinerary explorer. TripCo lets users browse curated city guides across 10 destinations with an interactive Leaflet.js satellite map, spot bookmarking, and a full profile system.
@@ -220,6 +208,24 @@ Built a **custom luminance-to-character mapping algorithm** that samples each pi
 | **Design** | Playfair Display + Inter · Dark luxury aesthetic · Mobile-first |
 | **Live Demo** | [![Portfolio](https://img.shields.io/badge/View%20on%20Portfolio-C9A96E?style=flat-square&logo=vercel&logoColor=0A0A0A)](https://portfolioparihar21.vercel.app) |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-F5F0E8?style=flat-square&logo=github&logoColor=0A0A0A)](https://github.com/adityaparihar21/trip-co) |
+
+<br/>
+</details>
+
+<details>
+<summary><b>🌤️ weatherHUT — Weather Dashboard & Forecasting</b></summary>
+<br/>
+
+> A sleek, real-time weather application that delivers accurate atmospheric data with a clean, minimalist UI. Designed for quick lookups and intuitive navigation, weatherHUT features dynamic backgrounds and responsive design for all devices.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | HTML · CSS · JavaScript · OpenWeatherMap API |
+| **Scale** | Global — fetches live weather data for any city worldwide |
+| **Features** | Real-time temperature · Humidity · Wind Speed · Search Functionality |
+| **Impact** | Simplifies weather data consumption through an elegant user experience |
+| **Live Demo** | [![Portfolio](https://img.shields.io/badge/View%20on%20Portfolio-C9A96E?style=flat-square&logo=vercel&logoColor=0A0A0A)](https://weatherhut-zeta.vercel.app/) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-F5F0E8?style=flat-square&logo=github&logoColor=0A0A0A)](https://github.com/adityaparihar21/day14-weather-app) |
 
 <br/>
 </details>
@@ -378,4 +384,4 @@ Built a **custom luminance-to-character mapping algorithm** that samples each pi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=0A0A0A,1A1A1A,0A0A0A&height=180&section=footer&text=%22I%20build%20software%20the%20way%20I%20edit%20film%22&fontSize=20&fontColor=C9A96E&desc=with%20intention%2C%20rhythm%2C%20and%20an%20obsession%20for%20the%20details%20that%20make%20a%20system%20feel%20alive.&descSize=14&descAlignY=65&animation=twinkling" width="100%" />
 
-</div
+</div>
