@@ -138,7 +138,23 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 <div align="center">
 <h2>◈ &nbsp; FEATURED PROJECTS &nbsp; ◈</h2>
 </div>
+<details>
+<summary><b>☕ Fragmento — Premium Café Website</b></summary>
+<br/>
 
+> A premium café website built with modern frontend technologies, cinematic animations, and immersive storytelling. Fragmento combines elegant UI, smooth interactions, and responsive design to create a memorable digital experience for a specialty coffee brand.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | React · Vite · Tailwind CSS · Framer Motion · GSAP |
+| **Scale** | Multi-page responsive business website |
+| **Design** | Premium café aesthetic · Motion-first UI · Interactive experience |
+| **Features** | Smooth scrolling · Cinematic animations · Responsive layout · Interactive menu · Modern navigation |
+| **Impact** | Demonstrates advanced frontend engineering, UI/UX design, and high-performance animation techniques |
+| **Live Demo** | [![Website](https://img.shields.io/badge/View%20Live-C9A96E?style=flat-square&logo=vercel&logoColor=0A0A0A)](https://fragmentocafe.vercel.app) |
+
+<br/>
+</details>
 <details>
 <summary><b>🎨 Real-Time ASCII Art Engine — JavaScript & Image Processing</b></summary>
 <br/>
@@ -189,7 +205,7 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 | **Security** | User login system with credential management |
 | **Features** | AI planner · Task management · Notes generator · Analytics · Reminders |
 | **Impact** | Reduces academic planning overhead — increases student productivity |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-F5F0E8?style=flat-square&logo=github&logoColor=0A0A0A)](https://github.com/adityaparihar21) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-F5F0E8?style=flat-square&logo=github&logoColor=0A0A0A)](https://github.com/adityaparihar21/studypilot) |
 
 <br/>
 </details>
@@ -207,11 +223,25 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 | **Architecture** | Multi-view SPA — Explore · Map · Saved · Profile — zero framework dependencies |
 | **Design** | Playfair Display + Inter · Dark luxury aesthetic · Mobile-first |
 | **Live Demo** | [![Portfolio](https://img.shields.io/badge/View%20on%20Portfolio-C9A96E?style=flat-square&logo=vercel&logoColor=0A0A0A)](https://portfolioparihar21.vercel.app) |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-F5F0E8?style=flat-square&logo=github&logoColor=0A0A0A)](https://github.com/adityaparihar21/trip-co) |
+| **Repository** | | **Status** | <img src="https://img.shields.io/badge/In%20Progress-C9A96E?style=flat-square&logoColor=0A0A0A" /> |
+<br/>
+</details>
+<details>
+<summary><b>💎 JewelQueue — Jewellery Store Management Platform &nbsp; <img src="https://img.shields.io/badge/IN%20PROGRESS-F5F0E8?style=flat-square&logoColor=0A0A0A" /></b></summary>
+<br/>
+
+> JewelQueue is a modern SaaS platform built for Indian jewellery businesses to streamline inventory management, customer records, billing, analytics, and day-to-day store operations through a clean and intuitive dashboard.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | React · Node.js · Express · PostgreSQL |
+| **Scale** | SaaS platform for jewellery retailers |
+| **Architecture** | Dashboard-driven management system with secure authentication |
+| **Features** | Inventory Management · Customer Database · Billing · Analytics Dashboard · Workflow Automation |
+| **Status** | <img src="https://img.shields.io/badge/In%20Progress-C9A96E?style=flat-square&logoColor=0A0A0A" /> |
 
 <br/>
 </details>
-
 <details>
 <summary><b>🌤️ weatherHUT — Weather Dashboard & Forecasting</b></summary>
 <br/>
@@ -386,17 +416,3 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 
 </div>
 
-
-<details>
-<summary><b>Fragmento — Café Website</b></summary>
-
-> A premium café website with modern UI, responsive layouts and smooth animations.
-
-| Attribute | Detail |
-|:---|:---|
-| **Stack** | React · Tailwind CSS · Framer Motion · Vite |
-| **Type** | Business Website |
-| **Features** | Responsive · Modern UI · Animations |
-| **Live Demo** | https://fragmentocafe.vercel.app |
-
-</details>
