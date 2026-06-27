@@ -211,7 +211,7 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 </details>
 
 <details>
-<summary><b>🗺️ TripCo — Curated Travel Itinerary App &nbsp; <img src="https://img.shields.io/badge/IN%20PROGRESS-F5F0E8?style=flat-square&logoColor=0A0A0A" /></b></summary>
+<summary><b>🗺️ TripCo — Curated Travel Itinerary App &nbsp; <a href="https://tripco-puce.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE%20APP-F5F0E8?style=flat-square&logoColor=0A0A0A" alt="Live App" /></a></b></summary>
 <br/>
 
 > A **Letterboxd-style mobile travel journal** and itinerary explorer. TripCo lets users browse curated city guides across 10 destinations with an interactive Leaflet.js satellite map, spot bookmarking, and a full profile system.
@@ -222,8 +222,9 @@ I have over a year of hands-on industry experience as **Lead Video Editor** for 
 | **Scale** | 10 cities — Tokyo, Delhi, Dehradun, Shimla, Jaipur, Mumbai, Bangalore, Prague, Udaipur, Goa |
 | **Architecture** | Multi-view SPA — Explore · Map · Saved · Profile — zero framework dependencies |
 | **Design** | Playfair Display + Inter · Dark luxury aesthetic · Mobile-first |
-| **Live Demo** | [![Portfolio](https://img.shields.io/badge/View%20on%20Portfolio-C9A96E?style=flat-square&logo=vercel&logoColor=0A0A0A)](https://portfolioparihar21.vercel.app) |
-| **Repository** | | **Status** | <img src="https://img.shields.io/badge/In%20Progress-C9A96E?style=flat-square&logoColor=0A0A0A" /> |
+| **Live Demo** | [![Live App](https://img.shields.io/badge/View%20Live%20App-C9A96E?style=flat-square&logo=vercel&logoColor=0A0A0A)](https://tripco-puce.vercel.app) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Source%20Code-181717?style=flat-square&logo=github)](https://github.com/adityaparihar21/tripco) |
+
 <br/>
 </details>
 <details>
